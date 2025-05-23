@@ -16,6 +16,8 @@ public class DictionaryController {
         dictionary.put("book", "quyển sách");
         dictionary.put("computer", "máy tính");
         dictionary.put("apple", "quả táo");
+        dictionary.put("i luv u", "tôi yêu bạn");
+        dictionary.put("trash", "rác");
     }
 
     @GetMapping("/")
